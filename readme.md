@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/codingo?tab=followers">
+  <a href="https://github.com/imran-parray?tab=followers">
     <img src="https://img.shields.io/github/followers/imran-parray?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/codingo_">
+  <a href="http://twitter.com/imranparray101">
     <img src="https://img.shields.io/twitter/follow/imranparray101?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
